@@ -1,2 +1,2 @@
 # SpeechTranslator
-This is a speech translator system designed completely on python . It translates one's speech into any desired language
+This is a speech translator system designed completely on python . It translates one's speech into any desired language and provides voice output 
